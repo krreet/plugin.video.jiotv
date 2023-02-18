@@ -161,7 +161,7 @@ LANGUAGE_CONFIG = [
     }
 ]
 LANG_MAP = {6: "English", 1: "Hindi", 2: "Marathi", 3: "Punjabi", 4: "Urdu", 5: "Bengali", 7: "Malayalam", 8: "Tamil",
-            9: "Gujarati", 10: "Odia", 11: "Telugu", 12: "Bhojpuri", 13: "Kannada", 14: "Assamese", 15: "Nepali", 16: "French", 18:"Extra"}
+            9: "Gujarati", 10: "Odia", 11: "Telugu", 12: "Bhojpuri", 13: "Kannada", 14: "Assamese", 15: "Nepali", 16: "French", 18:"Manipuri", 19:"Koshali"}
 GENRE_MAP = {8: "Sports", 5: "Entertainment", 6: "Movies", 12: "News", 13: "Music", 7: "Kids", 9: "Lifestyle",
              10: "Infotainment", 15: "Devotional", 16: "Business", 17: "Educational", 18: "Shopping", 19: "JioDarshan"}
 CONFIG = {"Genres": GENRE_CONFIG, "Languages": LANGUAGE_CONFIG}

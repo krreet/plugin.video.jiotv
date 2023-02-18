@@ -115,6 +115,11 @@ LANGUAGE_CONFIG = [
         "promoImg": IMG_PUBLIC+"30/23/Marathi_1580458084801_promo.jpg",
     },
     {
+        "name": "Urdu",
+        "tvImg": IMG_PUBLIC + "logos/langGen/Urdu_1579245819981.jpg",
+        "promoImg": IMG_PUBLIC+"67/0/Urdu_1580459753008_promo.jpg",
+    },
+    {
         "name": "Telugu",
         "tvImg": IMG_PUBLIC + "logos/langGen/Telugu_1579245819981.jpg",
         "promoImg": IMG_PUBLIC+"89/86/Telugu_1580458096736_promo.jpg",
@@ -158,6 +163,31 @@ LANGUAGE_CONFIG = [
         "name": "Odia",
         "tvImg": IMG_PUBLIC + "logos/langGen/Odia_1579245819981.jpg",
         "promoImg": IMG_PUBLIC+"67/0/Odia_1580459753008_promo.jpg",
+    },
+    {
+        "name": "Assamese",
+        "tvImg": IMG_PUBLIC + "logos/langGen/Assamese_1579245819981.jpg",
+        "promoImg": IMG_PUBLIC+"67/0/Assamese_1580459753008_promo.jpg",
+    },
+    {
+        "name": "Nepali",
+        "tvImg": IMG_PUBLIC + "logos/langGen/Nepali_1579245819981.jpg",
+        "promoImg": IMG_PUBLIC+"67/0/Nepali_1580459753008_promo.jpg",
+    },
+    {
+        "name": "French",
+        "tvImg": IMG_PUBLIC + "logos/langGen/French_1579245819981.jpg",
+        "promoImg": IMG_PUBLIC+"67/0/French_1580459753008_promo.jpg",
+    },
+    {
+        "name": "Manipuri",
+        "tvImg": IMG_PUBLIC + "logos/langGen/Manipuri_1579245819981.jpg",
+        "promoImg": IMG_PUBLIC+"67/0/Manipuri_1580459753008_promo.jpg",
+    },
+    {
+        "name": "Koshali",
+        "tvImg": IMG_PUBLIC + "logos/langGen/Koshali_1579245819981.jpg",
+        "promoImg": IMG_PUBLIC+"67/0/Koshali_1580459753008_promo.jpg",
     }
 ]
 LANG_MAP = {6: "English", 1: "Hindi", 2: "Marathi", 3: "Punjabi", 4: "Urdu", 5: "Bengali", 7: "Malayalam", 8: "Tamil",
